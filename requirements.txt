@@ -1,0 +1,6 @@
+matplotlib
+seaborn
+tqdm
+pandas
+numpy
+tensorflow<2.11
